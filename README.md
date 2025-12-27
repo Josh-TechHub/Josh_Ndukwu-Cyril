@@ -1,58 +1,32 @@
-- 👋 Hi, I’m Joshua Ndukwu-Cyril
+Hi there! 👋 I'm Joshua Ndukwu-Cyril, a passionate Data Analyst and BI Developer.
 
-💡 I’m a Data Analyst → Data Scientist with a growing interest in AI & Machine Learning. I enjoy turning raw data into insights, predictions, and intelligent solutions. Currently building different projects with Python, SQL, and Power BI, while expanding into Machine Learning and Deep Learning.
+👨‍💻 About Me:
 
-🔧 Skills & Tools:
+Specializing in Data Analysis.
+Excited about learning new things, tackling complex challenges and crafting elegant solutions.
 
-Languages: Python (pandas, numpy, matplotlib, seaborn, scikit-learn), SQL
+👯 Open to Collaboration:
 
-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+Actively job seeking.
+Eager to contribute my skills to innovative endeavors.
 
-Data Handling: Excel, APIs, ETL (beginner), Git/GitHub
+💬 Expertise:
 
-Machine Learning: Regression, Classification, Clustering (learning)
+Programming languages: Python, SQL.
+Data Visualization: Power BI, Tableau, Matplotlib, Seaborn.
+Data Handling: Excel, ETL, Git/GitHub.
+Database: SQL.
 
-Currently Learning: Advanced ML, Deep Learning (PyTorch, TensorFlow), Cloud Data Platforms
+📫 Get in Touch:
 
-📊 What I Work On:
+Let's connect on LinkedIn and share our professional journeys.
+Follow me on x.com/JoshTechHub for tech contents.
 
-Cleaning and analyzing datasets with Python & SQL
+😄 Fun Facts:
 
-Building dashboards that tell clear business stories
+Pronouns: He/Him
+Asides coding, I enjoy playing chess, Wrestling, and taking practice interviews(I find it fun and amusing).
 
-Exploring predictive models to move from analysis → science
+🚀 Let's Make Business Decisions Together!
 
-Sharing my learning journey through projects and case studies
-
-🚀 Projects Highlight:
-
-🏪 Retail Sales Analysis → Python + SQL + Power BI dashboard
-
-📈 Customer Churn Prediction → Machine Learning with scikit-learn
-
-🐍 Data Cleaning Scripts → Automated Python functions for messy CSVs
-
-(More projects coming — see pinned repos 👇)
-
-🌱 Current Focus:
-
-Strengthening Machine Learning foundations
-
-Building projects that connect Data Analytics → Data Science → AI
-
-Growing towards a career in AI/ML
-
-📫 Connect With Me:
-
-🌐 LinkedIn
-
-🐦 Twitter/X: https://x.com/JoshTechHub?t=Nv9ePDPqKBNQuwMpOMMOcQ&s=09
-
-✉️ Email: ndukwucyriljoshua@gmail.com
-
-⚡ “Data tells the story, but models predict the future. My goal is to bridge the two.”
-
-<!---
-Josh-TechHub/Josh-TechHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reach out if you're looking for a dedicated Data Analyst to turn your business data to business decisions.
