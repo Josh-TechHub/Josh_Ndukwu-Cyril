@@ -21,6 +21,7 @@ Database: SQL.
 
 Let's connect on LinkedIn and share our professional journeys.
 Follow me on x.com/JoshTechHub for tech contents.
+Contact me directly on WhatsApp through wa.me/+2349159476938
 
 😄 Fun Facts:
 
